@@ -5275,6 +5275,12 @@
       "description": "Rough lets you draw in a sketchy, hand-drawn-like, style.",
       "homepage": "https://github.com/bakhtiyork/Rough",
       "tags": ["swift", "sketchy", "hand-drawn"]
+    }, {
+      "title": "MRSelectCountry",
+      "category": "ui",
+      "description": "An easy way to get country data which includes the country name and dial code for iOS Developers",
+      "homepage": "https://github.com/mrazam110/MRSelectCountry",
+      "tags": ["swift", "country-picker", "select-country"]
     }
   ]
 }
